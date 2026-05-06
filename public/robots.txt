@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://esprit-equilibre.com/sitemap-index.xml

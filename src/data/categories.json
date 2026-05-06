@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Luminothérapie",
+    "slug": "luminotherapie",
+    "parent": null,
+    "description": "Lampes et dispositifs de luminothérapie pour réguler le rythme circadien, soutenir l'humeur saisonnière et favoriser l'énergie naturelle. Études cliniques à l'appui."
+  },
+  {
+    "id": 2,
+    "name": "Anti-Stress & Relaxation",
+    "slug": "anti-stress",
+    "parent": null,
+    "description": "Outils et accessoires conçus pour la gestion du stress au quotidien : balles anti-stress, objets sensoriels, coussins de relaxation et gadgets apaisants."
+  },
+  {
+    "id": 3,
+    "name": "Journaux de Gratitude & Développement",
+    "slug": "journaux-gratitude-developpement",
+    "parent": null,
+    "description": "Carnets structurés pour la pratique de la gratitude, le journaling thérapeutique et le développement personnel. La recherche en psychologie positive soutient ces pratiques."
+  },
+  {
+    "id": 4,
+    "name": "Méditation & Pleine Conscience",
+    "slug": "meditation-pleine-conscience",
+    "parent": null,
+    "description": "Accessoires essentiels pour la méditation : coussins zafu, bancs, minuteurs, bols tibétains et supports de pratique mindfulness."
+  },
+  {
+    "id": 5,
+    "name": "Aromathérapie & Huiles Essentielles",
+    "slug": "aromatherapie",
+    "parent": null,
+    "description": "Diffuseurs d'huiles essentielles, coffrets HE bio et accessoires d'aromathérapie. Focus sur les usages soutenus par la littérature scientifique."
+  },
+  {
+    "id": 6,
+    "name": "Bruit Blanc & Sons Apaisants",
+    "slug": "bruit-blanc-sons-apaisants",
+    "parent": null,
+    "description": "Machines à bruit blanc, générateurs de sons naturels et dispositifs sonores pour améliorer le sommeil et la concentration. Données issues de la recherche sur le sommeil."
+  },
+  {
+    "id": 7,
+    "name": "Couvertures Lestées",
+    "slug": "couvertures-lestees",
+    "parent": null,
+    "description": "Couvertures pondérées offrant une stimulation par pression profonde. Plusieurs études suggèrent des bénéfices sur l'anxiété et la qualité du sommeil."
+  },
+  {
+    "id": 8,
+    "name": "Fidget Tools & Stimulation Sensorielle",
+    "slug": "fidget-tools-stimulation-sensorielle",
+    "parent": null,
+    "description": "Outils de stimulation sensorielle et fidget toys pour la concentration et la gestion de l'anxiété. Utiles en contexte TDAH et troubles sensoriels."
+  },
+  {
+    "id": 9,
+    "name": "Yoga & Accessoires",
+    "slug": "yoga-accessoires",
+    "parent": null,
+    "description": "Tapis, blocs, sangles et accessoires de yoga pour une pratique à domicile bénéfique au bien-être mental. La recherche soutient les effets du yoga sur le stress."
+  },
+  {
+    "id": 10,
+    "name": "Chromothérapie & Lumière d'Ambiance",
+    "slug": "chromotherapie",
+    "parent": null,
+    "description": "Ampoules connectées, lampes d'ambiance et dispositifs de chromothérapie. Les effets de la couleur sur l'humeur font l'objet de recherches préliminaires."
+  },
+  {
+    "id": 11,
+    "name": "ASMR & Relaxation Sensorielle",
+    "slug": "asmr-relaxation-sensorielle",
+    "parent": null,
+    "description": "Microphones ASMR, accessoires de trigger sensoriel et outils pour la relaxation par stimulation auditive. Phénomène étudié par les neurosciences."
+  },
+  {
+    "id": 12,
+    "name": "Acupression & Réflexologie",
+    "slug": "acupression-reflexologie",
+    "parent": null,
+    "description": "Tapis d'acupression, coussins à picots et outils de réflexologie. Certaines études préliminaires suggèrent des effets relaxants."
+  },
+  {
+    "id": 13,
+    "name": "Thérapie par le Froid & la Chaleur",
+    "slug": "therapie-par-le-froid-chaleur",
+    "parent": null,
+    "description": "Accessoires de cryothérapie douce, coussins chauffants et dispositifs thermiques pour la relaxation musculaire et la gestion du stress."
+  },
+  {
+    "id": 14,
+    "name": "Cohérence Cardiaque & Biofeedback",
+    "slug": "coherence-cardiaque-biofeedback",
+    "parent": null,
+    "description": "Dispositifs de biofeedback, guides de cohérence cardiaque et capteurs physiologiques. La cohérence cardiaque est soutenue par la recherche cardiovasculaire."
+  },
+  {
+    "id": 15,
+    "name": "Sommeil & Optimisation",
+    "slug": "sommeil-optimisation",
+    "parent": null,
+    "description": "Masques de sommeil, bouchons d'oreilles spécialisés, oreillers ergonomiques et accessoires pour améliorer la qualité du sommeil."
+  },
+  {
+    "id": 16,
+    "name": "Art-Thérapie & Créativité",
+    "slug": "art-therapie-creativite",
+    "parent": null,
+    "description": "Matériel d'art-thérapie, carnets de coloriage adulte, kits créatifs et outils d'expression artistique pour le bien-être psychologique."
+  },
+  {
+    "id": 17,
+    "name": "Nature d'Intérieur & Plantes",
+    "slug": "nature-interieur-plantes",
+    "parent": null,
+    "description": "Plantes d'intérieur dépolluantes, terrariums, fontaines d'intérieur et éléments naturels. Des études suggèrent que la nature en intérieur favorise le bien-être."
+  },
+  {
+    "id": 18,
+    "name": "Massage & Auto-Massage",
+    "slug": "massage-auto-massage",
+    "parent": null,
+    "description": "Pistolets de massage, rouleaux foam, balles de massage et outils d'auto-massage pour la détente musculaire et la réduction du stress."
+  },
+  {
+    "id": 19,
+    "name": "Livres Santé Mentale & Psychologie",
+    "slug": "livres-sante-mentale",
+    "parent": null,
+    "description": "Ouvrages de référence en psychologie, développement personnel fondé sur la science, et guides pratiques de santé mentale par des auteurs reconnus."
+  },
+  {
+    "id": 20,
+    "name": "Thés & Infusions Bien-être",
+    "slug": "the-infusions-bien-etre",
+    "parent": null,
+    "description": "Thés relaxants, infusions aux plantes adaptogènes et tisanes pour le calme et le sommeil. Focus sur les ingrédients étudiés scientifiquement."
+  },
+  {
+    "id": 21,
+    "name": "Journaling & Écriture Thérapeutique",
+    "slug": "journaling-ecriture-therapeutique",
+    "parent": null,
+    "description": "Stylos ergonomiques, cahiers spécialisés et guides d'écriture expressive. L'écriture thérapeutique est soutenue par les travaux de Pennebaker."
+  },
+  {
+    "id": 22,
+    "name": "Simulateurs d'Aube & Réveils Lumineux",
+    "slug": "luminosite-reveil-simulateur-aube",
+    "parent": null,
+    "description": "Réveils simulateurs d'aube qui reproduisent un lever de soleil progressif. Études sur leur impact positif sur le réveil et l'humeur matinale."
+  },
+  {
+    "id": 23,
+    "name": "Respiration & Exercices Respiratoires",
+    "slug": "respiration-exercices-respiratoires",
+    "parent": null,
+    "description": "Outils d'aide à la respiration, colliers respiratoires et accessoires pour les techniques de respiration consciente et la gestion de l'anxiété."
+  },
+  {
+    "id": 24,
+    "name": "Organisation Mentale & Productivité Zen",
+    "slug": "organisation-mentale-productivite",
+    "parent": null,
+    "description": "Planners bien-être, outils d'organisation mindful et accessoires de productivité consciente pour réduire la charge mentale."
+  },
+  {
+    "id": 25,
+    "name": "Électrostimulation & Relaxation",
+    "slug": "electrosstimulation-relaxation",
+    "parent": null,
+    "description": "Appareils d'électrostimulation type TENS, stimulateurs de nerf vague et dispositifs de relaxation électronique. Usage sous réserve d'avis médical."
+  },
+  {
+    "id": 26,
+    "name": "Hygiène Numérique & Digital Detox",
+    "slug": "hygiene-numerique-digital-detox",
+    "parent": null,
+    "description": "Coffres à téléphone, minuteurs analogiques, lunettes anti-lumière bleue et accessoires pour une meilleure relation au numérique."
+  },
+  {
+    "id": 27,
+    "name": "Cristaux & Lithothérapie",
+    "slug": "cristaux-lithotherapie",
+    "parent": null,
+    "description": "Pierres, cristaux et accessoires de lithothérapie. Note : les effets thérapeutiques des cristaux ne sont pas soutenus par la science actuelle. Approche décorative et rituelle."
+  },
+  {
+    "id": 28,
+    "name": "Musique & Instruments Thérapeutiques",
+    "slug": "musique-instruments-therapeutiques",
+    "parent": null,
+    "description": "Bols chantants, kalimbas, tongue drums et instruments accessibles utilisés en musicothérapie. La musique est reconnue pour ses effets sur la réduction du stress."
+  },
+  {
+    "id": 29,
+    "name": "Espace Zen & Décoration Apaisante",
+    "slug": "espace-zen-decoration",
+    "parent": null,
+    "description": "Éléments de décoration zen, jardins japonais miniatures, encens et accessoires pour créer un espace de calme et de sérénité chez soi."
+  },
+  {
+    "id": 30,
+    "name": "Enfants & Bien-être Émotionnel",
+    "slug": "enfants-bien-etre-emotionnel",
+    "parent": null,
+    "description": "Outils adaptés aux enfants pour la gestion des émotions : roues des émotions, livres jeunesse, coussins sensoriels et jeux de pleine conscience."
+  }
+]
